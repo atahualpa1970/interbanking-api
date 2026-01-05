@@ -1,0 +1,77 @@
+[
+  {
+    "id": "A123",
+    "type": "PYME",
+    "adhesion": {
+      "date": "2026-01-02T00:26:20.025Z"
+    },
+    "transfers": [
+      {
+        "date": "2026-01-04T12:47:01.483Z",
+        "amount": 15000,
+        "destinationAccount": "AR1234567890"
+      },
+      {
+        "date": "2026-01-04T12:47:43.867Z",
+        "amount": 20000,
+        "destinationAccount": "AR1234560001"
+      }
+    ]
+  },
+  {
+    "id": "B456",
+    "type": "CORPORATE",
+    "adhesion": {
+      "date": "2025-12-20T10:15:00.000Z"
+    },
+    "transfers": [
+      {
+        "date": "2026-01-04T12:48:00.645Z",
+        "amount": 30000,
+        "destinationAccount": "AR1234560001"
+      }
+    ]
+  },
+  {
+    "id": "C789",
+    "type": "PYME",
+    "adhesion": {
+      "date": "2025-11-01T08:00:00.000Z"
+    },
+    "transfers": [
+      {
+        "date": "2025-11-10T12:48:00.645Z",
+        "amount": 30000,
+        "destinationAccount": "AR1234560001"
+      }
+    ]
+  },
+  {
+    "id": "D999",
+    "type": "CORPORATE",
+    "adhesion": {
+      "date": "2024-12-15T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "E777",
+    "type": "PYME",
+    "adhesion": {
+      "date": "2026-01-03T17:10:58.217Z"
+    }
+  },
+  {
+    "id": "F888",
+    "type": "PYME",
+    "adhesion": {
+      "date": "2026-01-05T01:53:56.447Z"
+    },
+    "transfers": [
+      {
+        "date": "2026-01-05T01:54:32.344Z",
+        "amount": 35000,
+        "destinationAccount": "AR1234560005"
+      }
+    ]
+  }
+]
